@@ -224,10 +224,14 @@ right: -20%;
     .btn-get-started{
         padding: 0.8rem;
         font-size: 0.5rem 1.2rem;
+        width: 100px;
+        font: 7px bold;
     }
     .btn-signing-main{
         padding: 0.5rem 2rem;
         font-size: 0.8rem;
+          width: 100px;
+        font: 7px bold;
     }
    
 }
